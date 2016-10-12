@@ -7,5 +7,7 @@
   </head>
   <body>
 
+    <?php require_once("lib/partails/navBar.php"); ?>
+
   </body>
 </html>
